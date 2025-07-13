@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.5fa67dd7.css",
-    "main.js": "/static/js/main.d9b561b9.js",
+    "main.js": "/static/js/main.c7333028.js",
     "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
     "static/media/banner.svg": "/static/media/banner.8edf63e5f0c1d306a682.svg",
     "static/media/anhthu-logo.svg": "/static/media/anhthu-logo.40d29587b7a1de03afb827d150341688.svg",
     "static/media/project-img1.png": "/static/media/project-img1.26400fc1b7761e8836dd.png",
+    "static/media/project-img2.png": "/static/media/project-img2.0dcf038bcaa70dabb25a.png",
     "static/media/project-img5.png": "/static/media/project-img5.2487508efa245177f1a5.png",
     "static/media/contact-img.svg": "/static/media/contact-img.f1c50a3cd4787f18783e710466762f44.svg",
-    "static/media/project-img2.png": "/static/media/project-img2.e13405205b8d54e5d239.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -27,11 +27,11 @@
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.5fa67dd7.css.map": "/static/css/main.5fa67dd7.css.map",
-    "main.d9b561b9.js.map": "/static/js/main.d9b561b9.js.map",
+    "main.c7333028.js.map": "/static/js/main.c7333028.js.map",
     "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fa67dd7.css",
-    "static/js/main.d9b561b9.js"
+    "static/js/main.c7333028.js"
   ]
 }
