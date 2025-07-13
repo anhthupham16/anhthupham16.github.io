@@ -72,10 +72,12 @@ export const Projects = () => {
                         {
                           projects.map((project, index) => {
                             return (
-                              <ProjectCard
+                              <Col key={index} xs={12} sm={6} md={4} className="mb-4 d-flex justify-content-center">
+                                <ProjectCard
                                 key={index}
                                 {...project}
                                 />
+                              </Col>
                             )
                           })
                         }
