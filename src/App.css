@@ -188,16 +188,11 @@ span.navbar-text {
 	height: 100%;
 	position: absolute;
 } 
-/* ẨN ICON MẶC ĐỊNH CỦA BOOTSTRAP */
-.navbar-toggler .navbar-toggler-icon {
-  background-image: none !important;
-}
+/* ẨN ICON MẶC ĐỊNH CỦA BOOTSTRAP ??? */
+
 /* Hamburger menu styling */
 .navbar-toggler {
-  width: 40px;
-  height: 40px;
   padding: 0;
-  border: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -216,7 +211,7 @@ span.navbar-text {
 /* Tạo hamburger icon bằng cách sử dụng span và pseudo-elements */
 .navbar-toggler-icon { /* thanh giữa */ 
   display: block;
-  background-color: #4A2FBD;
+  background-color: transparent;
   border-radius: 2px;
   position: relative;
   transition: all 0.3s;
@@ -230,7 +225,7 @@ span.navbar-text {
   left: 0;
   width: 22px;
   height: 2px;
-  background-color: #4A2FBD;
+  background-color: transparent;
   border-radius: 2px;
   transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   transform-origin: center;
@@ -307,11 +302,27 @@ span.navbar-text {
 /************ Banner Css ************/
 .banner {
   margin-top: 0;
-  padding: 260px 0 100px 0;
-  background-image: url('./assets/img/banner.svg');
+  padding: 170px 0 100px 0;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: #fff;
+  position: relative;
+}
+.banner .profile-img-wrapper img {
+  width: 100%;          /* hoặc auto tùy kích thước mong muốn */
+  height: auto;
+}
+/* Mobile menu styles */
+@media (max-width: 767.98px) {
+  .banner .profile-img-wrapper {
+    top: 0px;
+    left: 0px;
+  }
+
+  .banner .profile-img-wrapper .profile-img {
+    width: 100%;
+  }
 }
 .banner .tagline {
   font-weight: 700;
