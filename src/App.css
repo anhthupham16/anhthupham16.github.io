@@ -260,7 +260,8 @@ span.navbar-text {
     margin-top: 15px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-width: 1px;
+    box-shadow: -6px 4px 6px rgba(0, 0, 0, 0.3);
   }
   
   .navbar-nav {
@@ -390,7 +391,7 @@ span.navbar-text {
 .skill {
   padding: 0 0 50px 0;
   position: relative;
-  background: linear-gradient(90.21deg, #c5396a -5.91%, #c28fe7 111.58%);
+  background: linear-gradient(90.21deg, #f5c1dc -5.91%, #c28fe7 111.58%);
 }
 .skill-bx {
   background: #000;
@@ -566,7 +567,7 @@ span.navbar-text {
 
 /************ Contact Css ************/
 .contact {
-  background: linear-gradient(90.21deg, #c5396a -5.91%, #c28fe7 111.58%);
+  background: linear-gradient(90.21deg, #f5c1dc -5.91%, #c28fe7 111.58%);
   padding: 60px 0 200px 0;
 }
 .contact img {
@@ -624,7 +625,7 @@ span.navbar-text {
 }
 .contact form button::before {
   content: "";
-  background: #121212;
+  background: #b9819c;
   width: 0;
   height: 100%;
   position: absolute;
