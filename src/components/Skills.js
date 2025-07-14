@@ -48,10 +48,6 @@ export const Skills = () => {
                                 <img src={meter3} alt="Image" />
                                 <h5>Team Work</h5>
                             </div>
-                            <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Hard Skills</h5>
-                            </div>
                         </Carousel>
                     </div>
                 </div>
