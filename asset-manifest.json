@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e972fcf.css",
-    "main.js": "/static/js/main.d2f1fa73.js",
+    "main.css": "/static/css/main.06213e0d.css",
+    "main.js": "/static/js/main.74cc7d66.js",
     "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
-    "static/media/contact-img.svg": "/static/media/contact-img.dfe63b543cbb10c47c3d183ece66baf2.svg",
+    "static/media/contact-img.png": "/static/media/contact-img.acb53b20480b004f2a62.png",
     "static/media/anhthu-logo.svg": "/static/media/anhthu-logo.40d29587b7a1de03afb827d150341688.svg",
     "static/media/profile-img.png": "/static/media/profile-img.f96836f99777157c2356.png",
     "static/media/project-img1.png": "/static/media/project-img1.26400fc1b7761e8836dd.png",
@@ -26,12 +26,12 @@
     "index.html": "/index.html",
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.9e972fcf.css.map": "/static/css/main.9e972fcf.css.map",
-    "main.d2f1fa73.js.map": "/static/js/main.d2f1fa73.js.map",
+    "main.06213e0d.css.map": "/static/css/main.06213e0d.css.map",
+    "main.74cc7d66.js.map": "/static/js/main.74cc7d66.js.map",
     "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e972fcf.css",
-    "static/js/main.d2f1fa73.js"
+    "static/css/main.06213e0d.css",
+    "static/js/main.74cc7d66.js"
   ]
 }
