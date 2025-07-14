@@ -39,7 +39,7 @@ export const Projects = () => {
     },
     {
       title: "IT Security",
-      description: "Pipeline for Web Application",
+      description: "CI/CD Pipeline for Web Application",
       imgUrl: projImg6,
     },
   ];
